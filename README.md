@@ -48,6 +48,8 @@ $ bash train.sh
 ```
 $ curl -s -H "accept: application/json" https://irail.be/stations/NMBS
 ```
->
+
+< <p> N'hésiter pas à me contacter si vous vouler ajouter un pays ce script aura sûrement plusieur version
+< Si vous rencontrer des <b>beugs</b> fait en moi part!
 
 
