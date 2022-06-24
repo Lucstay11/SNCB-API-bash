@@ -49,11 +49,9 @@ $ bash train.sh
 $ curl -s -H "accept: application/json" https://irail.be/stations/NMBS
 ```
 -----------------------------------------------------------------------------------------------------
- **`N'hésiter pas à me contacter si vous vouler ajouter un pays. Ce script aura sûrement plusieur version`**
+ **`N'hésiter pas à me contacter si vous vouler ajouter un pays. Ce script aura sûrement plusieur version!`**
  
- ```
- Si vous rencontrer des <i>beugs</i> fait en moi part!
- ```
+  Si vous rencontrer des <i>beugs</i> fait en moi part!
 
 ### Contacter moi sur :
 <p align="left">
