@@ -1,4 +1,7 @@
 <p align="center">
+<a href="https://github.com/Ignitetch/AdvPhishing/releases"><img title="GitHub version" src="https://img.shields.io/badge/version-1-blue" ></a>  
+</p>
+<p align="center">
 <img src=".sncb.png">
 </p>
 <p align="center">
@@ -39,4 +42,7 @@ $ chmod +x train.sh
 ```
 $ bash train.sh
 ```
+-----------------------------------------------------------------------------------------------------
+> Information sur l'API 🌐
+>
   
