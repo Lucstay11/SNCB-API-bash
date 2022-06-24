@@ -21,6 +21,7 @@
 <h1 align="center">Installation<h1>
   
 **Ṕackages`**
+  
   `toilet`
   `jq`
   `fzf`
