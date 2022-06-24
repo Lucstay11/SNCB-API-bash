@@ -12,4 +12,7 @@
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
-<i>Marre d'être en retard pour prendre le <b>train?</b> Soyez au courrant des retard avant les panneaux d'affichage et selection n'importe quel gare de <b>Belgique</b></i>
+<i>Marre d'être en retard pour prendre le <b>train?</b> Soyez au courrant des retard avant les panneaux d'affichage et selectionné n'importe quel gare de <b>Belgique</b></i>
+<p align="center">
+<img src=".sncb-a.jpg">
+</p>
