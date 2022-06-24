@@ -50,6 +50,6 @@ $ curl -s -H "accept: application/json" https://irail.be/stations/NMBS
 ```
 -----------------------------------------------------------------------------------------------------
  **`N'hésiter pas à me contacter si vous vouler ajouter un pays ce script aura sûrement plusieur version`**
- **`Si vous rencontrer des <i>beugs</i> fait en moi part!**
+ **`Si vous rencontrer des <i>beugs</i> fait en moi part!`**
 
 
