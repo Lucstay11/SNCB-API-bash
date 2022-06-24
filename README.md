@@ -3,8 +3,8 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Track--Every station-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Info--Retard-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Belguim-Stats-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Info--Delay-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Belguim-Stats-yellow?style=for-the-badge">
  
 </p>
 <p align="center">
