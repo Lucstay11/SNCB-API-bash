@@ -15,10 +15,11 @@
 <i>Marre d'être en retard pour prendre le <b>train?</b> Soyez au courant des retards avant les panneaux d'affichage et selectionné n'importe quel gare de <b>Belgique</b></i>
 <p align="center">
 <img src=".linux-sncb.png">
-<img src=".sncb.png"> 
+<img src=".sncb-a.png"> 
 </p>
 
 <h1 align="center">Installation<h1>
+  
 **Ṕackages`**
   `toilet`
   `jq`
