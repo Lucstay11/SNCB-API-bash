@@ -20,7 +20,7 @@
 
 <h1 align="center">Installation<h1>
   
-**Ṕackages`**
+**`Packages`**
   
   `toilet`
   `jq`
