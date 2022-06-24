@@ -43,7 +43,10 @@ $ chmod +x train.sh
 $ bash train.sh
 ```
 -----------------------------------------------------------------------------------------------------
-> Information sur l'API 🌐                                                                          <
->                                                                                                   <
+> Information sur l'API 🌐                                                                          
+> Les requetes <b>curl</b> ce font sur https://irail.be/stations
+```
+$ curl -s -H "accept: application/json" https://irail.be/stations/NMBS
+```
 >
 > 
