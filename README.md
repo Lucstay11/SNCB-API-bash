@@ -20,9 +20,9 @@
 
 **`Packages`**
   
-  `toilet`
-  `jq`
-  `fzf`
+  - `toilet`
+  - `jq`
+  - `fzf`
 
 **`Installation`**
 
