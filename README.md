@@ -44,7 +44,7 @@ $ bash train.sh
 ```
 -----------------------------------------------------------------------------------------------------
 > Information sur l'API 🌐                                                                          
-> Les requetes <b>curl</b> ce font sur https://irail.be/stations
+> Les requetes <b>curl</b> ce font sur https://irail.be/stations/NMBS
 ```
 $ curl -s -H "accept: application/json" https://irail.be/stations/NMBS
 ```
