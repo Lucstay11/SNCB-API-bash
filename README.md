@@ -14,5 +14,5 @@
 </p>
 <i>Marre d'être en retard pour prendre le <b>train?</b> Soyez au courrant des retard avant les panneaux d'affichage et selectionné n'importe quel gare de <b>Belgique</b></i>
 <p align="center">
-<img height="800" src=".sncb-a.jpg">
+<img height="800" width="800" src=".sncb-a.jpg">
 </p>
