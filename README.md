@@ -42,7 +42,7 @@ $ chmod +x train.sh
 ```
 $ bash train.sh
 ```
-**`Lance le script avec des parametre`**
+**`Lance le script avec des parametres`**
 ```
 $ bash train.sh Bruxelles-Nord
 ```
