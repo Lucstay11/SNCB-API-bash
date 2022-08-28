@@ -44,7 +44,7 @@ $ bash train.sh
 ```
 **`Lance le script avec des parametre`**
 ```
-$ bash train.sh Bruxelles
+$ bash train.sh Bruxelles-Nord
 ```
 -----------------------------------------------------------------------------------------------------
 > Information sur l'API 🌐                                                                          
