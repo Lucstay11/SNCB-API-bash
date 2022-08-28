@@ -42,6 +42,10 @@ $ chmod +x train.sh
 ```
 $ bash train.sh
 ```
+**`Lance le script avec des parametre`**
+```
+$ bash train.sh Bruxelles
+```
 -----------------------------------------------------------------------------------------------------
 > Information sur l'API 🌐                                                                          
 > Les requetes <b>curl</b> ce font sur https://irail.be/stations/NMBS
