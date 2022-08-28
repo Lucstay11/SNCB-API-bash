@@ -118,10 +118,10 @@ nb_retard=0
            lister_gare_dispo
 
        else  # Sinon il s'execute avec les arguments
-       recherche_liste_station=$(cat .nom-stations.txt | grep $1 | sed -n 1p)
+       recherche_liste_station=$(cat .nom-stations.txt | grep -E ^"$1"$ | sed -n 1p)
        if [[ $1 != ""  && $2 == "" && $1 == $recherche_liste_station ]];then
 
-    station=$(cat .nom-stations.txt | grep $1 | sed -n 1p)
+    station=$(cat .nom-stations.txt | grep -E ^"$1"$ | sed -n 1p)
     site_ville=$(cat -n .site-station.txt | grep $station | sed -n 1p | awk '{print $2}')
 
       function arg_gare_dispo(){
@@ -174,17 +174,17 @@ nb_retard=0
            }
            arg_gare_dispo
 
-        recherche_liste_station=$(cat .nom-stations.txt | grep $1 | sed -n 1p)
+        recherche_liste_station=$(cat .nom-stations.txt | grep -E ^"$1"$ | sed -n 1p)
        elif [[ $1 == $recherche_liste_station && $2 == "info" ]];then
             echo "INFO $1"
 
            else
             echo -e $rouge "Aucune gare trouvée" | toilet -f term -F border
-            echo -e $vert "Options"
+            echo -e $vert "Options Exemples"
             echo -e $bleu_clair "Liste Station:"
-            echo -e $white "./ $0 $bleu Bruxelles" | toilet -f term -F border
-            echo -e $bleu_clair "Info Station:"
-            echo -e $white "./ $0 $bleu Bruxelles $jaune info" | toilet -f term -F border
+            echo -e $white "./ $0 $bleu Bruxelles-Nord" | toilet -f term -F border
+            #echo -e $bleu_clair "Info Station:"
+            #echo -e $white "./ $0 $bleu Bruxelles $jaune info" | toilet -f term -F border
        fi
 
    fi
