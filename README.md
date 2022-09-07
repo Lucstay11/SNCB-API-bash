@@ -46,7 +46,7 @@ $ bash train.sh
 ```
 $ bash train.sh Bruxelles-Nord
 ```
-<img src=".sncb-a.jpg"> 
+<img src=".sncb-b.jpg"> 
 -----------------------------------------------------------------------------------------------------
 > Information sur l'API 🌐                                                                          
 > Les requetes <b>curl</b> ce font sur https://irail.be/stations/NMBS
