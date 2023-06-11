@@ -80,7 +80,7 @@ fi
                  fi
                done
 nb_retard=0
-       for (( i=1; i< $nb_gare; i++ ))
+       for (( i=1; i<= $nb_gare; i++ ))
          do
            nom=$( cat .info | grep headsign | sed -n "$i"p | cut -c15-)
            depart1=$(cat .info | grep scheduledDepartureTime | sed -n "$i"p | awk '{print $2}' | cut -c12- | fold -b2 | sed -n 1p)
@@ -137,7 +137,7 @@ nb_retard=0
                  fi
                done
 nb_retard=0
-       for (( i=1; i< $nb_gare; i++ ))
+       for (( i=1; i<= $nb_gare; i++ ))
          do
            nom=$( cat .info | grep headsign | sed -n "$i"p | cut -c15-)
            depart1=$(cat .info | grep scheduledDepartureTime | sed -n "$i"p | awk '{print $2}' | cut -c12- | fold -b2 | sed -n 1p)
